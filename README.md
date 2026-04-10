@@ -20,6 +20,8 @@ A production-ready full-stack authentication template built with React, TypeScri
 
 ## Quick Start
 
+# git clone https://github.com/tuanvu17/my-project-template-backend-frontend-mongo.git
+
 ### 1. Start MongoDB
 ```bash
 cd database
