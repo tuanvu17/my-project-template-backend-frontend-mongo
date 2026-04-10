@@ -20,7 +20,52 @@ A production-ready full-stack authentication template built with React, TypeScri
 
 ## Quick Start
 
-# git clone https://github.com/tuanvu17/my-project-template-backend-frontend-mongo.git
+# 🚀 Project Template Guide
+
+This repository is used as a **template** to quickly bootstrap new projects.
+
+---
+
+## 🧱 Create Template Repository
+
+1. Go to: https://github.com/new  
+2. Fill in:
+   - Repository name (e.g. `my-project-template`)
+   - Choose Public or Private  
+   - ❌ Do NOT check "Initialize with README"
+3. Click **Create repository**
+
+---
+
+## 💻 Initialize & Push Project
+
+Run the following commands inside your project folder:
+
+```bash
+git init
+git add .
+git commit -m "Initial template commit"
+
+
+### Connect to GitHub and push:
+git remote add origin https://github.com/your-username/my-project-template.git
+git branch -M main
+git push -u origin main
+
+
+🔄 How to Use This Template
+git clone https://github.com/your-username/my-project-template.git
+cd my-project-template
+
+# Remove old git history
+rm -rf .git
+
+# Initialize new repo
+git init
+git add .
+git commit -m "init new project"
+
+
 
 ### 1. Start MongoDB
 ```bash
