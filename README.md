@@ -40,7 +40,8 @@ npm run server
 ```bash
 cd frontend
 npm install
-npm run dev
+npm run dev -- --host 0.0.0.0 # run from wsl
+# npm run dev
 # Runs on http://localhost:5173
 ```
 
