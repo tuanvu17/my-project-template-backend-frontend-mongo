@@ -59,6 +59,12 @@ cd my-project-template
 
 # Remove old git history
 rm -rf .git
+🧱 Create Template Repository
+
+git remote add origin https://github.com/your-username/new-my-project.git
+
+git branch -M main
+git push -u origin main
 
 # Initialize new repo
 git init
