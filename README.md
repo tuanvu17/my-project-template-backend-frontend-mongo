@@ -65,7 +65,7 @@ git init
 git add .
 git commit -m "init new project"
 git push origin main
-
+```
 
 ### 1. Start MongoDB
 ```bash
